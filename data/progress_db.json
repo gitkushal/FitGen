@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "user_id": "test@example.com",
+      "name": "Kushal",
+      "xp": 50,
+      "streak": 1,
+      "last_completed": "2025-11-14",
+      "badges": [
+        "Getting Serious"
+      ],
+      "history": [
+        {
+          "date": "2025-11-14",
+          "type": "completion",
+          "xp": 10,
+          "note": "Completed AI plan"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded MRI"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded sample_report2.pdf"
+        }
+      ]
+    },
+    {
+      "user_id": "user1@example.com",
+      "name": "dev",
+      "xp": 130,
+      "streak": 1,
+      "last_completed": "2025-11-14",
+      "badges": [
+        "Getting Serious",
+        "Consistency Champ"
+      ],
+      "history": [
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded sample_report.pdf"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "completion",
+          "xp": 10,
+          "note": "Completed AI plan"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded MRI"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded MRI"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded MRI"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded MRI"
+        },
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded sample_report2.pdf"
+        }
+      ]
+    },
+    {
+      "user_id": "garima@example.com",
+      "name": "garima",
+      "xp": 10,
+      "streak": 1,
+      "last_completed": "2025-11-14",
+      "badges": [],
+      "history": [
+        {
+          "date": "2025-11-14",
+          "type": "completion",
+          "xp": 10,
+          "note": "Completed AI plan"
+        }
+      ]
+    },
+    {
+      "user_id": "satyaprakash@example.com",
+      "name": "satyaprakash",
+      "xp": 20,
+      "streak": 0,
+      "last_completed": null,
+      "badges": [],
+      "history": [
+        {
+          "date": "2025-11-14",
+          "type": "upload",
+          "xp": 20,
+          "note": "Uploaded sample_report2.pdf"
+        }
+      ]
+    }
+  ]
+}

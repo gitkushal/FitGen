@@ -1,0 +1,11 @@
+flask
+flask-cors
+streamlit
+google-generativeai
+pdfplumber
+pytesseract
+Pillow
+reportlab
+joblib
+scikit-learn
+requests
